@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+.env
+*.log
+
+# Rust
+target/
+Cargo.lock
+
+# Wallets
+*wallet.json
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
