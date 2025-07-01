@@ -5,3 +5,5 @@ This repo contains the completed TypeScript and Rust prerequisites for the Turbi
 - ✅ TypeScript Challenge Completed
 - ✅ Rust Challenge Completed
 - ✅ NFT Minted
+
+> Built and submitted as part of the Turbin3 Q3 2025 Builder Cohort.
