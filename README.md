@@ -5,8 +5,8 @@ This repository contains all completed prerequisite tasks required for participa
 
 ## Structure
 
-- `turbin3/ts-prereq/` – TypeScript-based prerequisites
-- `turbin3/rust-prereq/` – Rust-based prerequisites
+- `prerequisites/ts-prereq/` – TypeScript-based prerequisite
+- `prerequisites/rust-prereq/` – Rust-based prerequisite
 
 Each subproject has its own README explaining how to run or review the code.
 
