@@ -1,0 +1,3 @@
+[submodule "Vault"]
+	path = Vault
+	url = https://github.com/farooq13/Vault.git
