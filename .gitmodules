@@ -1,3 +1,6 @@
 [submodule "Vault"]
 	path = Vault
 	url = https://github.com/farooq13/Vault.git
+[submodule "anchor-escrow"]
+	path = anchor-escrow
+	url = https://github.com/farooq13/anchor-escrow.git
