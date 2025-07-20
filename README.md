@@ -17,8 +17,8 @@ Each subproject has its own README explaining how to run or review the code.
 - [Rust Prerequisite](./turbin3-prerequisites/rust-prereq)
 - [TypeScript Prerequisite](./turbin3-prerequisites/ts-prereq)
 - [Solana Starter Project](./solana-starter)
-- [Anchor Escrow](./anchor-escrow)
-- [AMM](./anchor-amm)
+- [Anchor Escrow](https://github.com/farooq13/anchor-escrow.git)
+- [AMM](https://github.com/farooq13/anchor-amm.git)
 <!-- - [Capstone: Denft](./denft) *(in progress)* -->
 
 
