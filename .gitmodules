@@ -7,3 +7,6 @@
 [submodule "anchor-amm"]
 	path = anchor-amm
 	url = https://github.com/farooq13/anchor-amm.git
+[submodule "capstone"]
+	path = capstone
+	url = https://github.com/farooq13/capstone.git
