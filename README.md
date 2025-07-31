@@ -19,7 +19,7 @@ Each subproject has its own README explaining how to run or review the code.
 - [Solana Starter Project](./solana-starter)
 - [Anchor Escrow](https://github.com/farooq13/anchor-escrow.git)
 - [AMM](https://github.com/farooq13/anchor-amm.git)
-<!-- - [Capstone: Denft](./denft) *(in progress)* -->
+- [Capstone: Denft](./capstone) *(in progress)*
 
 
 ## Author
